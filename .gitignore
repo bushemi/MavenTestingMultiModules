@@ -1,3 +1,5 @@
-.idea/**
-target/**
-TestMavenProject.iml
+**/.idea/**
+**/target/**
+**.iml
+
+

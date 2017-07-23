@@ -7,7 +7,7 @@
     <parent>
         <artifactId>Test-Maven-Project</artifactId>
         <groupId>Bushemi</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0</version>
     </parent>
     <artifactId>DAO</artifactId>
 
